@@ -1,0 +1,12 @@
+{
+  "field": "resource_path",
+  "id": "e1445381db6233000510196c2996194c",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 15:25:38",
+  "sys_id": "ed445381db6233000510196c29961969",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 15:25:38",
+  "table": "var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129",
+  "value": "restapi/v2/accounts/{{action.envelope.account.id}}/envelopes/{{action.envelope.id}}/documents/combined"
+}

@@ -1,0 +1,12 @@
+{
+  "field": "status_code",
+  "id": "29445381db6233000510196c2996197c",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 15:25:39",
+  "sys_id": "fd445381db6233000510196c299619bd",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 15:25:39",
+  "table": "var__m_sys_hub_step_ext_input_29445381db6233000510196c2996197c",
+  "value": "{{step[2c9734c6-ae15-414a-97b4-22a495daf6d6].status_code}}"
+}

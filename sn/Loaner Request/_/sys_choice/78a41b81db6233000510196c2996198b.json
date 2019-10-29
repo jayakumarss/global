@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "status",
+  "hint": null,
+  "inactive": false,
+  "label": "Success",
+  "language": "en",
+  "name": "var__m_sys_hub_action_output_e4a4d781db6233000510196c299619ff",
+  "sequence": 2,
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 15:27:13",
+  "sys_id": "78a41b81db6233000510196c2996198b",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 15:27:13",
+  "value": "Success"
+}

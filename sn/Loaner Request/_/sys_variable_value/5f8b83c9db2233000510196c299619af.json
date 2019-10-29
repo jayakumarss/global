@@ -1,0 +1,14 @@
+{
+  "document": "sys_hub_action_instance",
+  "document_key": "468b43c9db2233000510196c299619ec",
+  "order": 6,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 14:47:31",
+  "sys_id": "5f8b83c9db2233000510196c299619af",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 14:47:31",
+  "value": "universalsignaturepen_piv_smartcard_tsp",
+  "variable": "1a290749db2233000510196c2996193d"
+}

@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": "Default access control on u_ehcm",
+  "name": "u_ehcm",
+  "operation": "delete",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-29 13:01:31",
+  "sys_id": "c7ac36b7db3233000510196c29961971",
+  "sys_mod_count": 0,
+  "sys_name": "u_ehcm",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_security_acl_c7ac36b7db3233000510196c29961971",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-29 13:01:31",
+  "type": "record"
+}

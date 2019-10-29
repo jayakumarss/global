@@ -1,0 +1,14 @@
+{
+  "document": "sys_hub_step_instance",
+  "document_key": "26290749db2233000510196c2996198e",
+  "order": 30,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 14:37:06",
+  "sys_id": "ee290749db2233000510196c2996199f",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 14:37:06",
+  "value": "{\"type\":\"ADV_NV\",\"value\":[{\"attributes\":{\"omit_if_empty\":false},\"name\":\"accept\",\"value\":\"application/json\"}]}",
+  "variable": "371837f1c71003007b237f48cb9763b0"
+}

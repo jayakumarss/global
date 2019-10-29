@@ -1,0 +1,12 @@
+{
+  "field": "pre_status",
+  "id": "e1f53b38dba233000510196c29961977",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-07 23:14:21",
+  "sys_id": "35f53b38dba233000510196c299619ad",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-07 23:14:21",
+  "table": "var__m_sys_hub_step_ext_input_e1f53b38dba233000510196c29961977",
+  "value": "{{step[c08eac7d-da68-4686-ae6a-ab37c4ab2fdb].pre_status}}"
+}

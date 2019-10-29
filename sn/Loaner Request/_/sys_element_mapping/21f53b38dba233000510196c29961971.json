@@ -1,0 +1,12 @@
+{
+  "field": "http_method",
+  "id": "61f53b38dba233000510196c29961965",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-07 23:14:21",
+  "sys_id": "21f53b38dba233000510196c29961971",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-07 23:14:21",
+  "table": "var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129",
+  "value": null
+}

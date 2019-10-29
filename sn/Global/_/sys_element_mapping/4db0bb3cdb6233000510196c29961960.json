@@ -1,0 +1,12 @@
+{
+  "field": "recipient_id",
+  "id": "05b0bb3cdb6233000510196c2996195b",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-07 22:51:22",
+  "sys_id": "4db0bb3cdb6233000510196c29961960",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-07 22:51:22",
+  "table": "var__m_sys_hub_action_input_6380cbbfdb475b00dd14596e5e9619af",
+  "value": null
+}

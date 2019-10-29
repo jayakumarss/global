@@ -1,0 +1,12 @@
+{
+  "field": "status",
+  "id": "9f041f41db6233000510196c29961996",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 15:24:42",
+  "sys_id": "c8145f41db6233000510196c29961988",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 15:24:42",
+  "table": "var__m_sys_hub_action_output_9f041f41db6233000510196c29961996",
+  "value": "{{step[b228319c-562d-456a-8569-b6af2c5da446].status}}"
+}

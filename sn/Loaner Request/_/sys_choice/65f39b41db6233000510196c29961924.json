@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "status",
+  "hint": null,
+  "inactive": false,
+  "label": "Error",
+  "language": "en",
+  "name": "var__m_sys_hub_action_output_30f35b41db6233000510196c29961945",
+  "sequence": 1,
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 15:24:16",
+  "sys_id": "65f39b41db6233000510196c29961924",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 15:24:16",
+  "value": "Error"
+}

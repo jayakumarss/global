@@ -1,0 +1,12 @@
+{
+  "field": "attachment",
+  "id": "5d441381db6233000510196c299619f7",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 15:25:40",
+  "sys_id": "b1449381db6233000510196c29961939",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 15:25:40",
+  "table": "var__m_sys_hub_action_output_5d441381db6233000510196c299619f7",
+  "value": "{{step[a4522abb-6132-4792-b73e-025e071e523e].attachment_record}}"
+}

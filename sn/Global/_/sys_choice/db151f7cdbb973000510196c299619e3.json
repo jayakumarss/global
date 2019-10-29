@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "u_depot",
+  "hint": null,
+  "inactive": false,
+  "label": "Sydney",
+  "language": "en",
+  "name": "u_mobile_devices",
+  "sequence": 5,
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-31 14:03:44",
+  "sys_id": "db151f7cdbb973000510196c299619e3",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-31 14:03:44",
+  "value": "sydney"
+}

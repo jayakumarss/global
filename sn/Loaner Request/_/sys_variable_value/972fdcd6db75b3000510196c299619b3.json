@@ -1,0 +1,14 @@
+{
+  "document": "sys_hub_action_instance",
+  "document_key": "532fdcd6db75b3000510196c299619ad",
+  "order": 1,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-04 16:39:43",
+  "sys_id": "972fdcd6db75b3000510196c299619b3",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-04 16:39:43",
+  "value": 1,
+  "variable": "8069a38adb3e5300bea7ff561d961930"
+}

@@ -1,0 +1,23 @@
+{
+  "is_fulfillment": false,
+  "license_condition": null,
+  "license_model": "none",
+  "license_roles": null,
+  "name": "u_jobcode1",
+  "op_delete": true,
+  "op_insert": true,
+  "op_update": true,
+  "owner_condition": null,
+  "sys_class_name": "ua_table_licensing_config",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-31 13:04:42",
+  "sys_id": "5590116cdb0333000510196c2996198b",
+  "sys_mod_count": 0,
+  "sys_name": "u_jobcode1",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "ua_table_licensing_config_5590116cdb0333000510196c2996198b",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-31 13:04:42"
+}

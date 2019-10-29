@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": "Default access control on u_mobile_devices",
+  "name": "u_mobile_devices",
+  "operation": "write",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-31 14:00:40",
+  "sys_id": "da64537cdbb973000510196c2996192c",
+  "sys_mod_count": 0,
+  "sys_name": "u_mobile_devices",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_security_acl_da64537cdbb973000510196c2996192c",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-31 14:00:40",
+  "type": "record"
+}

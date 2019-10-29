@@ -1,0 +1,12 @@
+{
+  "field": "target_record",
+  "id": "65d41f81db6233000510196c299619cf",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 15:28:06",
+  "sys_id": "21d41f81db6233000510196c299619d6",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 15:28:06",
+  "table": "var__m_sys_hub_action_input_5d441381db6233000510196c299619f7",
+  "value": "{{Created_1.current}}"
+}

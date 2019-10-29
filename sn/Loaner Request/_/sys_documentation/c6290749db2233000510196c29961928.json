@@ -1,0 +1,23 @@
+{
+  "element": "name",
+  "help": null,
+  "hint": null,
+  "label": "Name",
+  "language": "en",
+  "name": "var__m_sys_hub_action_input_8e29c349db2233000510196c299619ec",
+  "plural": null,
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 14:37:04",
+  "sys_id": "c6290749db2233000510196c29961928",
+  "sys_mod_count": 0,
+  "sys_name": "Name",
+  "sys_package": "209eafd9f56133007f447024bdae7fe1",
+  "sys_policy": null,
+  "sys_scope": "209eafd9f56133007f447024bdae7fe1",
+  "sys_update_name": "sys_documentation_var__m_sys_hub_action_input_8e29c349db2233000510196c299619ec_name_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 14:37:04",
+  "url": null,
+  "url_target": null
+}

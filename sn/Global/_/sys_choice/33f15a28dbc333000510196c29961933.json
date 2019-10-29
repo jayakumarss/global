@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "approval",
+  "hint": null,
+  "inactive": false,
+  "label": "AB1235",
+  "language": "en",
+  "name": "task",
+  "sequence": 0,
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-31 17:50:30",
+  "sys_id": "33f15a28dbc333000510196c29961933",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-31 17:50:30",
+  "value": "AB1235"
+}

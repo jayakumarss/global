@@ -1,0 +1,12 @@
+{
+  "field": "field_values",
+  "id": "428b83c9db2233000510196c29961913",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 14:47:27",
+  "sys_id": "828b83c9db2233000510196c2996191a",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 14:47:27",
+  "table": "var__m_sys_hub_action_input_3f9b1ff1531003003bf1d9109ec58775",
+  "value": "signing_url={{076fdc70-08dc-4c09-acad-da17d503fe4a.signing_url}}"
+}

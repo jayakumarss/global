@@ -1,0 +1,17 @@
+{
+  "name": "SN Rest API Call",
+  "password": "T1334vnkni+qGQZfk1NSNg==",
+  "sys_class_name": "sys_auth_profile_basic",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-29 14:42:29",
+  "sys_id": "10b353b7db7233000510196c29961998",
+  "sys_mod_count": 0,
+  "sys_name": "SN Rest API Call",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_auth_profile_basic_10b353b7db7233000510196c29961998",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-29 14:42:29",
+  "username": "abel.tuter"
+}

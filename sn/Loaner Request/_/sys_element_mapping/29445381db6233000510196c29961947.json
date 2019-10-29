@@ -1,0 +1,12 @@
+{
+  "field": "document_name",
+  "id": "51445381db6233000510196c29961924",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 15:25:38",
+  "sys_id": "29445381db6233000510196c29961947",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 15:25:38",
+  "table": "var__m_sys_hub_step_ext_input_51445381db6233000510196c29961924",
+  "value": "{{action.document_name}}"
+}

@@ -1,0 +1,12 @@
+{
+  "field": "status",
+  "id": "09431639db7573000510196c29961943",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-03 11:50:01",
+  "sys_id": "b9435639db7573000510196c2996193a",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-03 11:50:01",
+  "table": "var__m_sys_hub_action_output_09431639db7573000510196c29961943",
+  "value": "{{step[f71ae726-c48f-4b1b-bd2c-353c5e7840b6].status}}"
+}

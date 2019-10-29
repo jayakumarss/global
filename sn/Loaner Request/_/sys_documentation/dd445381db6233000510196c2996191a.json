@@ -1,0 +1,23 @@
+{
+  "element": "document_id",
+  "help": null,
+  "hint": null,
+  "label": "Document ID",
+  "language": "en",
+  "name": "var__m_sys_hub_action_input_5d441381db6233000510196c299619f7",
+  "plural": null,
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 15:25:37",
+  "sys_id": "dd445381db6233000510196c2996191a",
+  "sys_mod_count": 0,
+  "sys_name": "Document ID",
+  "sys_package": "209eafd9f56133007f447024bdae7fe1",
+  "sys_policy": null,
+  "sys_scope": "209eafd9f56133007f447024bdae7fe1",
+  "sys_update_name": "sys_documentation_var__m_sys_hub_action_input_5d441381db6233000510196c299619f7_document_id_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 15:25:37",
+  "url": null,
+  "url_target": null
+}

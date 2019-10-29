@@ -1,0 +1,17 @@
+{
+  "action_id": "96444345db2233000510196c2996191e",
+  "plan": "{\"persistor\":{\"@class\":\".ChunkingPlanPersistor\",\"table\":\"sys_hub_action_plan\",\"id\":\"76290749db2233000510196c299619f7\",\"name\":\"plan\"}}",
+  "snapshot": "2129c349db2233000510196c2996194a",
+  "sys_class_name": "sys_hub_action_plan",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 14:37:08",
+  "sys_id": "76290749db2233000510196c299619f7",
+  "sys_mod_count": 0,
+  "sys_name": "96444345db2233000510196c2996191e",
+  "sys_package": "209eafd9f56133007f447024bdae7fe1",
+  "sys_policy": null,
+  "sys_scope": "209eafd9f56133007f447024bdae7fe1",
+  "sys_update_name": "sys_hub_action_plan_76290749db2233000510196c299619f7",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 14:37:08"
+}

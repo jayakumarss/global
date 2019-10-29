@@ -1,0 +1,23 @@
+{
+  "element": "target_record",
+  "help": null,
+  "hint": null,
+  "label": "Target Record",
+  "language": "en",
+  "name": "var__m_sys_hub_action_input_1f76f246db71b3000510196c29961999",
+  "plural": null,
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-04 09:02:21",
+  "sys_id": "ef76f246db71b3000510196c299619a2",
+  "sys_mod_count": 0,
+  "sys_name": "Target Record",
+  "sys_package": "209eafd9f56133007f447024bdae7fe1",
+  "sys_policy": null,
+  "sys_scope": "209eafd9f56133007f447024bdae7fe1",
+  "sys_update_name": "sys_documentation_var__m_sys_hub_action_input_1f76f246db71b3000510196c29961999_target_record_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-04 09:02:21",
+  "url": null,
+  "url_target": null
+}

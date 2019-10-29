@@ -1,0 +1,17 @@
+{
+  "plan": "{\"persistor\":{\"@class\":\".ChunkingPlanPersistor\",\"table\":\"sys_flow_subflow_plan\",\"id\":\"bf682756dbb25300a9c7594e5e9619bc\",\"name\":\"plan\"}}",
+  "plan_id": "e012e312dbb25300a9c7594e5e961904",
+  "snapshot": "05ea4e8cdb7d33000510196c29961983",
+  "sys_class_name": "sys_flow_subflow_plan",
+  "sys_created_by": "admin",
+  "sys_created_on": "2018-06-22 07:59:30",
+  "sys_id": "bf682756dbb25300a9c7594e5e9619bc",
+  "sys_mod_count": 11,
+  "sys_name": "e012e312dbb25300a9c7594e5e961904",
+  "sys_package": "ed9f9ffadb555700868f5404ce9619f3",
+  "sys_policy": null,
+  "sys_scope": "ed9f9ffadb555700868f5404ce9619f3",
+  "sys_update_name": "sys_flow_subflow_plan_bf682756dbb25300a9c7594e5e9619bc",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2018-10-12 11:14:47"
+}

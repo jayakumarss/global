@@ -1,0 +1,16 @@
+{
+  "document": "sys_hub_step_instance",
+  "document_key": "2a290749db2233000510196c299619a5",
+  "order": 600,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 14:37:06",
+  "sys_id": "fa290749db2233000510196c299619cd",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 14:37:06",
+  "value": {
+    "____see": "sn\\Loaner Request\\Values\\sys_hub_step_instance\\fa290749db2233000510196c299619cd.js"
+  },
+  "variable": "71aa7f6647032200b4fad7527c9a719b"
+}

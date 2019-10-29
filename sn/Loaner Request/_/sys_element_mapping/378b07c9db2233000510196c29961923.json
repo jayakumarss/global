@@ -1,0 +1,12 @@
+{
+  "field": "envelope",
+  "id": "b78b07c9db2233000510196c2996191c",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 14:47:34",
+  "sys_id": "378b07c9db2233000510196c29961923",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 14:47:34",
+  "table": "var__m_sys_hub_action_input_8e29c349db2233000510196c299619ec",
+  "value": "{{72e22d42-d7da-47d5-9dbb-822de5bdd7c2.envelope_id}}"
+}

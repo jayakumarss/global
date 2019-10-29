@@ -1,0 +1,12 @@
+{
+  "field": "error_message",
+  "id": "96444345db2233000510196c2996191e",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 14:36:58",
+  "sys_id": "78298349db2233000510196c299619da",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 14:36:58",
+  "table": "var__m_sys_hub_action_output_96444345db2233000510196c2996191e",
+  "value": "{{step[d9da3094-fdb2-4c4f-a36c-b1ad75786ab6].error_message}}"
+}

@@ -1,0 +1,14 @@
+{
+  "document": "sys_hub_action_instance",
+  "document_key": "8c9b07c9db2233000510196c29961941",
+  "order": 1,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 14:47:34",
+  "sys_id": "449b07c9db2233000510196c29961948",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 14:47:34",
+  "value": "Job offer v1.pdf",
+  "variable": "f7f047ffdb475b00dd14596e5e961908"
+}

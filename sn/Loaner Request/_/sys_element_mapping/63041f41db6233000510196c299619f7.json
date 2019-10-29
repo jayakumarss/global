@@ -1,0 +1,12 @@
+{
+  "field": "connection_alias",
+  "id": "e3041f41db6233000510196c299619eb",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 15:24:41",
+  "sys_id": "63041f41db6233000510196c299619f7",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 15:24:41",
+  "table": "var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129",
+  "value": "{{action.envelope.account.alias}}"
+}

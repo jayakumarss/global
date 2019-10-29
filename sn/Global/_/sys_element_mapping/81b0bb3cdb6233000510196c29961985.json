@@ -1,0 +1,12 @@
+{
+  "field": "field_category",
+  "id": "09b0bb3cdb6233000510196c2996197f",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-07 22:51:23",
+  "sys_id": "81b0bb3cdb6233000510196c29961985",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-07 22:51:23",
+  "table": "var__m_sys_hub_action_input_c4fc7abbdb475b00dd14596e5e9619c8",
+  "value": "{{e4ac4ae9-ca33-451d-8ae3-4b7b18d1481d.field_category}}"
+}

@@ -1,0 +1,12 @@
+{
+  "field": "embedded_signing_recipient",
+  "id": "468b43c9db2233000510196c299619ec",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 14:47:26",
+  "sys_id": "068b43c9db2233000510196c299619f4",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 14:47:26",
+  "table": "var__m_sys_hub_action_input_96444345db2233000510196c2996191e",
+  "value": null
+}

@@ -1,0 +1,14 @@
+{
+  "document": "sys_hub_action_instance",
+  "document_key": "a48dafb9db7973000510196c299619d0",
+  "order": 1,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-03 18:24:15",
+  "sys_id": "248dafb9db7973000510196c299619d5",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-03 18:24:15",
+  "value": "Offer Letter Template v1.pdf",
+  "variable": "38d14c6fdbb2d300dd14596e5e961963"
+}

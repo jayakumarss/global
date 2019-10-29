@@ -1,0 +1,12 @@
+{
+  "field": "attachment_file_name",
+  "id": "01f35b41db6233000510196c299619c7",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 15:24:15",
+  "sys_id": "45f35b41db6233000510196c299619d3",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 15:24:15",
+  "table": "var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129",
+  "value": "{{step[d47164ac-e2c6-48f1-8665-3bf395f4a977].document_name}}"
+}

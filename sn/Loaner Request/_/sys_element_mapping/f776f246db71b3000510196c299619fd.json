@@ -1,0 +1,12 @@
+{
+  "field": "document_name",
+  "id": "a376f246db71b3000510196c299619dc",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-04 09:02:22",
+  "sys_id": "f776f246db71b3000510196c299619fd",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 15:58:05",
+  "table": "var__m_sys_hub_step_ext_input_a376f246db71b3000510196c299619dc",
+  "value": "{{action.document_name4}}"
+}

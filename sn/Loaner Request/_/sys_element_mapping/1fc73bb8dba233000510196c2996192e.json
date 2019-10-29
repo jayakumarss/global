@@ -1,0 +1,12 @@
+{
+  "field": "role_name",
+  "id": "87c7f7b8dba233000510196c299619be",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-07 23:22:22",
+  "sys_id": "1fc73bb8dba233000510196c2996192e",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-07 23:22:22",
+  "table": "var__m_sys_hub_step_ext_input_87c7f7b8dba233000510196c299619be",
+  "value": "{{action.role_name}}"
+}

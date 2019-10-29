@@ -1,0 +1,16 @@
+{
+  "element": "u_depot",
+  "name": "u_mobile_devices",
+  "sys_class_name": "sys_choice_set",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-31 14:03:44",
+  "sys_id": "1f151f7cdbb973000510196c299619d4",
+  "sys_mod_count": 0,
+  "sys_name": "u_depot",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_choice_u_mobile_devices_u_depot",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-31 14:03:44"
+}

@@ -1,0 +1,12 @@
+{
+  "field": "user_record_name",
+  "id": "8c298349db2233000510196c29961929",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 14:36:57",
+  "sys_id": "10298349db2233000510196c2996197a",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 14:36:57",
+  "table": "var__m_sys_hub_step_ext_input_8c298349db2233000510196c29961929",
+  "value": "{{action.embedded_signing_recipient.name}}"
+}

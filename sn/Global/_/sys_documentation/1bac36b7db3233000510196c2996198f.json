@@ -1,0 +1,23 @@
+{
+  "element": "u_duty_station",
+  "help": null,
+  "hint": null,
+  "label": "Duty Station",
+  "language": "en",
+  "name": "u_ehcm",
+  "plural": "Duty Stations",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-29 13:01:31",
+  "sys_id": "1bac36b7db3233000510196c2996198f",
+  "sys_mod_count": 0,
+  "sys_name": "Duty Station",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_documentation_u_ehcm_u_duty_station_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-29 13:01:31",
+  "url": null,
+  "url_target": null
+}

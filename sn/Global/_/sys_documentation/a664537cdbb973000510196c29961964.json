@@ -1,0 +1,23 @@
+{
+  "element": "subcategory",
+  "help": null,
+  "hint": null,
+  "label": "Subcategory",
+  "language": "en",
+  "name": "u_mobile_devices",
+  "plural": "Subcategories",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-31 14:00:41",
+  "sys_id": "a664537cdbb973000510196c29961964",
+  "sys_mod_count": 0,
+  "sys_name": null,
+  "sys_package": null,
+  "sys_policy": null,
+  "sys_scope": null,
+  "sys_update_name": null,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-31 14:00:41",
+  "url": null,
+  "url_target": null
+}

@@ -1,0 +1,16 @@
+{
+  "id": "9999c749db2233000510196c29961946",
+  "name": "Sign DocuSign Document",
+  "sys_class_name": "sys_flow_cat_variable_model",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 14:38:55",
+  "sys_id": "d199c749db2233000510196c29961947",
+  "sys_mod_count": 0,
+  "sys_name": "Sign DocuSign Document",
+  "sys_package": "209eafd9f56133007f447024bdae7fe1",
+  "sys_policy": null,
+  "sys_scope": "209eafd9f56133007f447024bdae7fe1",
+  "sys_update_name": "sys_flow_cat_variable_model_d199c749db2233000510196c29961947",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 14:38:55"
+}

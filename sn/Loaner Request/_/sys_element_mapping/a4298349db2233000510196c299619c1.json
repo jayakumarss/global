@@ -1,0 +1,12 @@
+{
+  "field": "response",
+  "id": "20298349db2233000510196c29961998",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 14:36:58",
+  "sys_id": "a4298349db2233000510196c299619c1",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 14:36:58",
+  "table": "var__m_sys_hub_step_ext_input_20298349db2233000510196c29961998",
+  "value": "{{step[68db6530-8a92-4a82-a734-edf7190916ed].response_body}}"
+}

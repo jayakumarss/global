@@ -1,0 +1,12 @@
+{
+  "field": "document_id",
+  "id": "65d41f81db6233000510196c299619cf",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-07-08 15:28:06",
+  "sys_id": "6dd41f81db6233000510196c299619d5",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-07-08 15:28:06",
+  "table": "var__m_sys_hub_action_input_5d441381db6233000510196c299619f7",
+  "value": "{{20903f86-c43d-4d14-b6a6-ab5b687a33c3.document_id}}"
+}

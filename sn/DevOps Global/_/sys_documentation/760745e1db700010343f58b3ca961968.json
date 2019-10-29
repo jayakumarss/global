@@ -1,0 +1,23 @@
+{
+  "element": null,
+  "help": null,
+  "hint": null,
+  "label": "Devops Global Table",
+  "language": "en",
+  "name": "u_devops_global_table",
+  "plural": "Devops Global Tables",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-29 14:46:50",
+  "sys_id": "760745e1db700010343f58b3ca961968",
+  "sys_mod_count": 1,
+  "sys_name": "Devops Global Table",
+  "sys_package": "c60781a1db700010343f58b3ca961991",
+  "sys_policy": null,
+  "sys_scope": "c60781a1db700010343f58b3ca961991",
+  "sys_update_name": "sys_documentation_u_devops_global_table__en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-29 14:46:50",
+  "url": null,
+  "url_target": null
+}
