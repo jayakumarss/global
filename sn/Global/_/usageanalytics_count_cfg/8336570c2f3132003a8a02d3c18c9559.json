@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "count_type": "Licensing",
+  "definition_id": "DEF1000360",
+  "description": "Running Average number of client nodes in the CMDB over last 365 days",
+  "exec_time_threshold": 300000,
+  "license_model": 0,
+  "name": "AverageClientNodeLast365Days",
+  "overridden": false,
+  "query": null,
+  "reportable": true,
+  "run_scope": "global",
+  "schedule": "Daily",
+  "script": {
+    "____see": "sn\\Global\\UsageAnalytics Count Configuration\\active_true\\DEF1000360.js"
+  },
+  "sys_class_name": "usageanalytics_count_cfg",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-03-24 21:28:34",
+  "sys_id": "8336570c2f3132003a8a02d3c18c9559",
+  "sys_mod_count": 4,
+  "sys_name": "DEF1000360",
+  "sys_package": "9ef891387420330078509adcc48c8705",
+  "sys_policy": "read",
+  "sys_scope": "global",
+  "sys_update_name": "usageanalytics_count_cfg_8336570c2f3132003a8a02d3c18c9559",
+  "sys_updated_by": "developer.program@snc",
+  "sys_updated_on": "2019-10-11 23:51:46"
+}

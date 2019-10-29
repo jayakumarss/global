@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "count_type": "Licensing",
+  "definition_id": "DEF1000371",
+  "description": "Orchestration Core transactions only executed in last month",
+  "exec_time_threshold": 300000,
+  "license_model": 0,
+  "name": "OrchCoreTransactionLastMonth",
+  "overridden": false,
+  "query": null,
+  "reportable": true,
+  "run_scope": "global",
+  "schedule": "Monthly",
+  "script": {
+    "____see": "sn\\Global\\UsageAnalytics Count Configuration\\active_true\\DEF1000371.js"
+  },
+  "sys_class_name": "usageanalytics_count_cfg",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-04-28 22:42:33",
+  "sys_id": "3fc6ffd32f9232009ac402d3c18c95a6",
+  "sys_mod_count": 8,
+  "sys_name": "DEF1000371",
+  "sys_package": "9ef891387420330078509adcc48c8705",
+  "sys_policy": "read",
+  "sys_scope": "global",
+  "sys_update_name": "usageanalytics_count_cfg_3fc6ffd32f9232009ac402d3c18c95a6",
+  "sys_updated_by": "developer.program@snc",
+  "sys_updated_on": "2019-10-11 23:51:46"
+}

@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "count_type": "Licensing",
+  "definition_id": "DEF1000400",
+  "description": "Average transactions in last 12 months",
+  "exec_time_threshold": 5000,
+  "license_model": 1,
+  "name": "outbound_usage_metrics_avg_compliance",
+  "overridden": false,
+  "query": null,
+  "reportable": false,
+  "run_scope": "global",
+  "schedule": "Monthly",
+  "script": {
+    "____see": "sn\\Global\\UsageAnalytics Count Configuration\\active_true\\DEF1000400.js"
+  },
+  "sys_class_name": "usageanalytics_count_cfg",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-08-10 00:13:32",
+  "sys_id": "8d67a6a4e720030007a64caac2f6a936",
+  "sys_mod_count": 15,
+  "sys_name": "DEF1000400",
+  "sys_package": "9ef891387420330078509adcc48c8705",
+  "sys_policy": "read",
+  "sys_scope": "global",
+  "sys_update_name": "usageanalytics_count_cfg_8d67a6a4e720030007a64caac2f6a936",
+  "sys_updated_by": "developer.program@snc",
+  "sys_updated_on": "2019-05-25 14:41:02"
+}

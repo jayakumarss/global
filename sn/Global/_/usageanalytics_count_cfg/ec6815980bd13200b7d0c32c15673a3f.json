@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "count_type": "Usage",
+  "definition_id": "DEF1000260",
+  "description": "Max number of shares for any console",
+  "exec_time_threshold": 3000,
+  "license_model": 0,
+  "name": "max_number_of_shares_for_any_console",
+  "overridden": false,
+  "query": null,
+  "reportable": false,
+  "run_scope": "global",
+  "schedule": "Monthly",
+  "script": {
+    "____see": "sn\\Global\\UsageAnalytics Count Configuration\\active_true\\DEF1000260.js"
+  },
+  "sys_class_name": "usageanalytics_count_cfg",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-02-28 10:31:45",
+  "sys_id": "ec6815980bd13200b7d0c32c15673a3f",
+  "sys_mod_count": 4,
+  "sys_name": "DEF1000260",
+  "sys_package": "9ef891387420330078509adcc48c8705",
+  "sys_policy": "read",
+  "sys_scope": "global",
+  "sys_update_name": "usageanalytics_count_cfg_ec6815980bd13200b7d0c32c15673a3f",
+  "sys_updated_by": "developer.program@snc",
+  "sys_updated_on": "2019-10-11 23:51:46"
+}

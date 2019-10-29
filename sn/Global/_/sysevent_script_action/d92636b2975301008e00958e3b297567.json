@@ -1,0 +1,22 @@
+{
+  "active": false,
+  "condition_script": null,
+  "description": null,
+  "event_name": "login.failed",
+  "name": "SNC User Lockout Check with Auto Unlock",
+  "order": 100,
+  "script": "//\n// Check to see if the user has failed to login too many times\n// when the limit is reached, lock the user out of the system.\n// Also create a trigger to unlock the user after 'N' minutes.\n//\n\nlockoutOnFailedLogin();\n\nfunction lockoutOnFailedLogin() {\n\tvar maxUnlockAttempts = gs.getProperty(\"glide.user.max_unlock_attempts\", 5);\n\tvar gr = new GlideRecord(\"sys_user\");\n\tif (gr.get(\"user_name\", event.parm1.toString())) {\n\t\tif (gr.failed_attempts > maxUnlockAttempts)\n\t\t\treturn;\n\n\t\tgr.failed_attempts += 1;\n\t\tif (gr.failed_attempts > maxUnlockAttempts) {\n\t\t\tgr.locked_out = true;\n\t\t\tgr.update();\n\t\t\tgs.log(\"User \" + event.parm1 + \" locked out due to too many invalid login attempts\");\n\t\t\ttriggerUnlock(gr.sys_id);\n\t\t} else {\n\t\t\tgr.update();       \n\t\t}\n\t}\n}\n\nfunction triggerUnlock(userSysID) {\n\tvar unlockIn = gs.getProperty(\"glide.user.unlock_timeout_in_mins\", 15);\n\tvar trigger = new GlideRecord(\"sys_trigger\");\n\ttrigger.name = \"Unlock the user after \"+ unlockIn + \" mins\";\n\ttrigger.next_action = getTriggerTime(unlockIn);\n\ttrigger.job_id.setDisplayValue('RunScriptJob');\n\ttrigger.script = getTriggerScript(userSysID);\n\ttrigger.document = 'sys_user';\n\ttrigger.document_key = userSysID;\n\ttrigger.state = 0;\n\ttrigger.trigger_type = 0;\n\ttrigger.insert();\n}\n\nfunction getTriggerScript(userSysID) {\n\tvar ret = \"\"\n\t+ \"var gr = new GlideRecord('sys_user');\\n\"\n\t+ \"gr.addQuery('sys_id', '\" +userSysID+ \"');\\n\"\n\t+ \"gr.addQuery('locked_out', true);\\n\"\n\t+ \"gr.query();\\n\"\n\t+ \"if (gr.next()) {\\n\"\n\t\t+ \"gr.locked_out = false;\\n\"\n\t\t+ \"gr.failed_attempts = 0;\\n\"\n\t\t+ \"gr.update();\\n\"\n\t\t+ \"gs.log('Auto-unlocking user '+gr.name);\\n\"\n\t+ \"} else {\\n\"\n\t\t+ \"gs.log('Unable to auto-unlock user with sys_id: \"+userSysID+\"');\\n\"\n\t+ \"}\";\n\treturn ret;\n}\n\nfunction getTriggerTime(minutesToAdd) {\n\tvar checkTime = new GlideDateTime(/*now*/);\n\tcheckTime.addSeconds(minutesToAdd * 60);\n\treturn checkTime;\n}\n",
+  "synchronous": true,
+  "sys_class_name": "sysevent_script_action",
+  "sys_created_by": "admin",
+  "sys_created_on": "2013-08-24 00:27:47",
+  "sys_id": "d92636b2975301008e00958e3b297567",
+  "sys_mod_count": 28,
+  "sys_name": "SNC User Lockout Check with Auto Unlock",
+  "sys_package": "0fcc913874e0330078509adcc48c8758",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sysevent_script_action_d92636b2975301008e00958e3b297567",
+  "sys_updated_by": "developer.program@snc",
+  "sys_updated_on": "2019-05-24 16:53:31"
+}

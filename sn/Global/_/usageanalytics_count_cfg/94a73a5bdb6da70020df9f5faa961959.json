@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "count_type": "Usage",
+  "definition_id": "DEFN1000890",
+  "description": "Returns the number of COEs(HR Case tables) that contain active records in the past 30 days.",
+  "exec_time_threshold": 500,
+  "license_model": 0,
+  "name": "ActiveCOECount",
+  "overridden": false,
+  "query": null,
+  "reportable": false,
+  "run_scope": "sn_hr_core",
+  "schedule": "Monthly",
+  "script": {
+    "____see": "sn\\Global\\UsageAnalytics Count Configuration\\active_true\\DEFN1000890.js"
+  },
+  "sys_class_name": "usageanalytics_count_cfg",
+  "sys_created_by": "system",
+  "sys_created_on": "2018-11-08 23:52:52",
+  "sys_id": "94a73a5bdb6da70020df9f5faa961959",
+  "sys_mod_count": 1,
+  "sys_name": "DEFN1000890",
+  "sys_package": "9ef891387420330078509adcc48c8705",
+  "sys_policy": "read",
+  "sys_scope": "global",
+  "sys_update_name": "usageanalytics_count_cfg_94a73a5bdb6da70020df9f5faa961959",
+  "sys_updated_by": "developer.program@snc",
+  "sys_updated_on": "2019-10-11 23:51:45"
+}

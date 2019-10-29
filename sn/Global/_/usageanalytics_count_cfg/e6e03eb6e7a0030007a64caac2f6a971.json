@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "count_type": "Usage",
+  "definition_id": "DEF1000410",
+  "description": "Transactions for last 12 months",
+  "exec_time_threshold": 3000,
+  "license_model": 0,
+  "name": "outbound_usage_metrics_yearly",
+  "overridden": false,
+  "query": null,
+  "reportable": false,
+  "run_scope": "global",
+  "schedule": "Monthly",
+  "script": {
+    "____see": "sn\\Global\\UsageAnalytics Count Configuration\\active_true\\DEF1000410.js"
+  },
+  "sys_class_name": "usageanalytics_count_cfg",
+  "sys_created_by": "admin",
+  "sys_created_on": "2017-08-17 00:44:24",
+  "sys_id": "e6e03eb6e7a0030007a64caac2f6a971",
+  "sys_mod_count": 8,
+  "sys_name": "DEF1000410",
+  "sys_package": "9ef891387420330078509adcc48c8705",
+  "sys_policy": "read",
+  "sys_scope": "global",
+  "sys_update_name": "usageanalytics_count_cfg_e6e03eb6e7a0030007a64caac2f6a971",
+  "sys_updated_by": "developer.program@snc",
+  "sys_updated_on": "2019-05-25 14:41:03"
+}

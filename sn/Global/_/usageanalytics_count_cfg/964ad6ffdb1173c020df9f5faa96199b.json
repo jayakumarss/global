@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "count_type": "Usage",
+  "definition_id": "DEFN1001447",
+  "description": "Monthly Count of all users with access to [1 - 10] tables under Starter SKU",
+  "exec_time_threshold": 500,
+  "license_model": 0,
+  "name": "Monthly Count of all users with access to [1 - 10] tables under Starter SKU",
+  "overridden": false,
+  "query": null,
+  "reportable": false,
+  "run_scope": "global",
+  "schedule": "Monthly",
+  "script": {
+    "____see": "sn\\Global\\UsageAnalytics Count Configuration\\active_true\\DEFN1001447.js"
+  },
+  "sys_class_name": "usageanalytics_count_cfg",
+  "sys_created_by": "system",
+  "sys_created_on": "2019-05-15 20:57:05",
+  "sys_id": "964ad6ffdb1173c020df9f5faa96199b",
+  "sys_mod_count": 1,
+  "sys_name": "DEFN1001447",
+  "sys_package": "9ef891387420330078509adcc48c8705",
+  "sys_policy": "read",
+  "sys_scope": "global",
+  "sys_update_name": "usageanalytics_count_cfg_964ad6ffdb1173c020df9f5faa96199b",
+  "sys_updated_by": "developer.program@snc",
+  "sys_updated_on": "2019-10-11 23:51:45"
+}

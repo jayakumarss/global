@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "count_type": "Licensing",
+  "definition_id": "DEF1000213",
+  "description": "Number of unique nodes that Orchestration has run an activity on",
+  "exec_time_threshold": 300000,
+  "license_model": 0,
+  "name": "UniqueNodesOrchestrated",
+  "overridden": false,
+  "query": null,
+  "reportable": true,
+  "run_scope": "global",
+  "schedule": "Daily",
+  "script": {
+    "____see": "sn\\Global\\UsageAnalytics Count Configuration\\active_true\\DEF1000213.js"
+  },
+  "sys_class_name": "usageanalytics_count_cfg",
+  "sys_created_by": "admin",
+  "sys_created_on": "2016-08-04 23:11:02",
+  "sys_id": "34d83c2dcb012200467d3682634c9ca0",
+  "sys_mod_count": 11,
+  "sys_name": "DEF1000213",
+  "sys_package": "9ef891387420330078509adcc48c8705",
+  "sys_policy": "read",
+  "sys_scope": "global",
+  "sys_update_name": "usageanalytics_count_cfg_34d83c2dcb012200467d3682634c9ca0",
+  "sys_updated_by": "developer.program@snc",
+  "sys_updated_on": "2019-10-11 23:51:46"
+}
