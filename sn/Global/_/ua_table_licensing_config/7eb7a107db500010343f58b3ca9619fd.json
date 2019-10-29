@@ -1,0 +1,23 @@
+{
+  "is_fulfillment": false,
+  "license_condition": null,
+  "license_model": "none",
+  "license_roles": null,
+  "name": "task_rel_kb",
+  "op_delete": true,
+  "op_insert": true,
+  "op_update": true,
+  "owner_condition": null,
+  "sys_class_name": "ua_table_licensing_config",
+  "sys_created_by": "system",
+  "sys_created_on": "2019-10-09 12:29:08",
+  "sys_id": "7eb7a107db500010343f58b3ca9619fd",
+  "sys_mod_count": 0,
+  "sys_name": "task_rel_kb",
+  "sys_package": "b247698fdb100010343f58b3ca961928",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "ua_table_licensing_config_7eb7a107db500010343f58b3ca9619fd",
+  "sys_updated_by": "system",
+  "sys_updated_on": "2019-10-09 12:29:08"
+}

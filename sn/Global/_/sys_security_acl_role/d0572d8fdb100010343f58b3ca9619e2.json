@@ -1,0 +1,15 @@
+{
+  "sys_class_name": "sys_security_acl_role",
+  "sys_created_by": "system",
+  "sys_created_on": "2019-10-09 12:27:19",
+  "sys_id": "d0572d8fdb100010343f58b3ca9619e2",
+  "sys_mod_count": 0,
+  "sys_name": "planned_task_rollup.*.project_user",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_security_acl_role_d0572d8fdb100010343f58b3ca9619e2",
+  "sys_updated_by": "system",
+  "sys_updated_on": "2019-10-09 12:27:19",
+  "transaction_id": null
+}

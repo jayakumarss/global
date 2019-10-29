@@ -1,0 +1,23 @@
+{
+  "is_fulfillment": false,
+  "license_condition": null,
+  "license_model": "none",
+  "license_roles": null,
+  "name": "sn_erm_deployment_phase",
+  "op_delete": true,
+  "op_insert": true,
+  "op_update": true,
+  "owner_condition": null,
+  "sys_class_name": "ua_table_licensing_config",
+  "sys_created_by": "system",
+  "sys_created_on": "2019-10-09 12:29:08",
+  "sys_id": "feb7e107db500010343f58b3ca96190f",
+  "sys_mod_count": 0,
+  "sys_name": "sn_erm_deployment_phase",
+  "sys_package": "676bd4da0b533200a6acc93563673a71",
+  "sys_policy": null,
+  "sys_scope": "676bd4da0b533200a6acc93563673a71",
+  "sys_update_name": "ua_table_licensing_config_feb7e107db500010343f58b3ca96190f",
+  "sys_updated_by": "system",
+  "sys_updated_on": "2019-10-09 12:29:08"
+}

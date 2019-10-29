@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "state",
+  "hint": null,
+  "inactive": false,
+  "label": "Pending",
+  "language": "en",
+  "name": "task",
+  "sequence": -5,
+  "sys_created_by": "system",
+  "sys_created_on": "2019-03-30 01:42:00",
+  "sys_id": "35c855b47420330078509adcc48c87d6",
+  "sys_mod_count": 0,
+  "sys_updated_by": "system",
+  "sys_updated_on": "2019-03-30 01:42:00",
+  "value": -5
+}

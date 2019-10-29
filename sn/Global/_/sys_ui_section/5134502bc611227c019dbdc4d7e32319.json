@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "sys_user",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "GUEST",
+  "sys_created_on": "2004-05-02 00:00:00",
+  "sys_id": "5134502bc611227c019dbdc4d7e32319",
+  "sys_mod_count": 3,
+  "sys_name": "sys_user",
+  "sys_package": "c79d15fc74e0330078509adcc48c87bf",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_ui_section_5134502bc611227c019dbdc4d7e32319",
+  "sys_updated_by": "system",
+  "sys_updated_on": "2012-07-24 20:17:36",
+  "title": true,
+  "view": "Default view",
+  "view_name": null
+}

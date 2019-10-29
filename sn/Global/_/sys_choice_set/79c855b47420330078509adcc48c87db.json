@@ -1,0 +1,16 @@
+{
+  "element": "approval",
+  "name": "task",
+  "sys_class_name": "sys_choice_set",
+  "sys_created_by": "system",
+  "sys_created_on": "2019-03-30 01:42:00",
+  "sys_id": "79c855b47420330078509adcc48c87db",
+  "sys_mod_count": 0,
+  "sys_name": "approval",
+  "sys_package": "e9c855b47420330078509adcc48c8787",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_choice_task_approval",
+  "sys_updated_by": "system",
+  "sys_updated_on": "2019-03-30 01:42:00"
+}

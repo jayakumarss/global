@@ -1,0 +1,16 @@
+{
+  "label_cache": null,
+  "name": null,
+  "sys_class_name": "sys_hub_flow_block",
+  "sys_created_by": "admin",
+  "sys_created_on": "2018-07-10 15:42:54",
+  "sys_id": "971ffdd8db139b00a9c7594e5e961927",
+  "sys_mod_count": 70,
+  "sys_name": null,
+  "sys_package": "ed9f9ffadb555700868f5404ce9619f3",
+  "sys_policy": null,
+  "sys_scope": "ed9f9ffadb555700868f5404ce9619f3",
+  "sys_update_name": "sys_hub_flow_block_971ffdd8db139b00a9c7594e5e961927",
+  "sys_updated_by": "system",
+  "sys_updated_on": "2019-05-29 00:44:03"
+}

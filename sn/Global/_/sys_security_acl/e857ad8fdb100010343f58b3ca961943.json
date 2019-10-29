@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": null,
+  "name": "planned_task_custom_console_member.*",
+  "operation": "read",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "system",
+  "sys_created_on": "2019-10-09 12:27:21",
+  "sys_id": "e857ad8fdb100010343f58b3ca961943",
+  "sys_mod_count": 0,
+  "sys_name": "planned_task_custom_console_member.*",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_security_acl_e857ad8fdb100010343f58b3ca961943",
+  "sys_updated_by": "system",
+  "sys_updated_on": "2019-10-09 12:27:21",
+  "type": "record"
+}

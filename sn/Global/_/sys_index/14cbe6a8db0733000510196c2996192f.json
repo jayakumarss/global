@@ -1,0 +1,19 @@
+{
+  "col_name_string": "short_description",
+  "index_col_name": "a5c855b47420330078509adcc48c8790",
+  "logical_table_name": "x_cdltd_loaner_req_loaner_task",
+  "sys_class_name": "sys_index",
+  "sys_created_by": "system",
+  "sys_created_on": "2019-07-31 19:43:02",
+  "sys_id": "14cbe6a8db0733000510196c2996192f",
+  "sys_mod_count": 0,
+  "sys_name": "x_cdltd_loaner_req_loaner_task",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_index_x_cdltd_loaner_req_loaner_task_short_description",
+  "sys_updated_by": "system",
+  "sys_updated_on": "2019-07-31 19:43:02",
+  "table": "93a9fd12f56173007f447024bdae7fab",
+  "unique_index": false
+}

@@ -1,0 +1,16 @@
+{
+  "element": "status",
+  "name": "var__m_sys_hub_action_output_fb91ce54dbf133000510196c29961903",
+  "sys_class_name": "sys_choice_set",
+  "sys_created_by": "system",
+  "sys_created_on": "2019-05-29 18:42:02",
+  "sys_id": "54a1ce54dbf133000510196c299619b6",
+  "sys_mod_count": 0,
+  "sys_name": "status",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_choice_var__m_sys_hub_action_output_fb91ce54dbf133000510196c29961903_status",
+  "sys_updated_by": "system",
+  "sys_updated_on": "2019-05-29 18:42:02"
+}

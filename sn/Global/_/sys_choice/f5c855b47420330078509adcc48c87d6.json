@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "state",
+  "hint": null,
+  "inactive": false,
+  "label": "Closed Complete",
+  "language": "en",
+  "name": "task",
+  "sequence": 3,
+  "sys_created_by": "system",
+  "sys_created_on": "2019-03-30 01:42:00",
+  "sys_id": "f5c855b47420330078509adcc48c87d6",
+  "sys_mod_count": 0,
+  "sys_updated_by": "system",
+  "sys_updated_on": "2019-03-30 01:42:00",
+  "value": 3
+}
