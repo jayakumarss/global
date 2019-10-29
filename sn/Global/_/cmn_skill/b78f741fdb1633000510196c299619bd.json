@@ -1,0 +1,17 @@
+{
+  "active": true,
+  "description": "HR professional responsible for relocation activities",
+  "name": "Relocation Specialist",
+  "sys_class_name": "cmn_skill",
+  "sys_created_by": "abel.tuter",
+  "sys_created_on": "2019-07-02 18:06:32",
+  "sys_id": "b78f741fdb1633000510196c299619bd",
+  "sys_mod_count": 0,
+  "sys_name": "Relocation Specialist",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "cmn_skill_b78f741fdb1633000510196c299619bd",
+  "sys_updated_by": "abel.tuter",
+  "sys_updated_on": "2019-07-02 18:06:32"
+}

@@ -1,0 +1,16 @@
+{
+  "hr_condition": "eb72ccd5dbe233000510196c2996195b",
+  "hr_criteria": "2252c8d5dbe233000510196c2996194e",
+  "sys_class_name": "sn_hr_core_m2m_condition_criteria",
+  "sys_created_by": "abel.tuter",
+  "sys_created_on": "2019-07-08 18:51:15",
+  "sys_id": "2153c8d5dbe233000510196c29961929",
+  "sys_mod_count": 0,
+  "sys_name": "Location - UK.UK Employees Only",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sn_hr_core_m2m_condition_criteria_2153c8d5dbe233000510196c29961929",
+  "sys_updated_by": "abel.tuter",
+  "sys_updated_on": "2019-07-08 18:51:15"
+}

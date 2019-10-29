@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "description": "Full Time, Part time, and Temporary UK Employees",
+  "name": "UK Employees Only",
+  "related_user_criteria": "2e728cd5dbe233000510196c299619ac",
+  "sys_class_name": "sn_hr_core_criteria",
+  "sys_created_by": "abel.tuter",
+  "sys_created_on": "2019-07-08 18:47:30",
+  "sys_id": "2252c8d5dbe233000510196c2996194e",
+  "sys_mod_count": 0,
+  "sys_name": "UK Employees Only",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sn_hr_core_criteria_2252c8d5dbe233000510196c2996194e",
+  "sys_updated_by": "abel.tuter",
+  "sys_updated_on": "2019-07-08 18:47:30",
+  "table": null,
+  "user_column": null
+}

@@ -1,0 +1,19 @@
+{
+  "active": true,
+  "condition": "employment_typeINfull_time_employee,part_time_employee,temporary_employee^user.location.country=United Kingdom^EQ",
+  "name": "Location - UK",
+  "sys_class_name": "sn_hr_core_condition",
+  "sys_created_by": "abel.tuter",
+  "sys_created_on": "2019-07-08 18:51:15",
+  "sys_id": "eb72ccd5dbe233000510196c2996195b",
+  "sys_mod_count": 0,
+  "sys_name": "Location - UK",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sn_hr_core_condition_eb72ccd5dbe233000510196c2996195b",
+  "sys_updated_by": "abel.tuter",
+  "sys_updated_on": "2019-07-08 18:51:15",
+  "table": "sn_hr_core_profile",
+  "user_column": "user"
+}

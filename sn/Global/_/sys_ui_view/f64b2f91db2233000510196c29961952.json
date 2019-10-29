@@ -1,0 +1,20 @@
+{
+  "group": null,
+  "hidden": false,
+  "name": "custom",
+  "roles": null,
+  "sys_class_name": "sys_ui_view",
+  "sys_created_by": "abel.tuter",
+  "sys_created_on": "2019-07-09 11:44:41",
+  "sys_id": "f64b2f91db2233000510196c29961952",
+  "sys_mod_count": 0,
+  "sys_name": "Custom",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_ui_view_f64b2f91db2233000510196c29961952",
+  "sys_updated_by": "abel.tuter",
+  "sys_updated_on": "2019-07-09 11:44:41",
+  "title": "Custom",
+  "user": null
+}
