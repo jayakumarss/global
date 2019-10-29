@@ -1,0 +1,17 @@
+{
+  "default_mid_server": "bd02e50bdb100010343f58b3ca961935",
+  "included_in_app_all": true,
+  "name": "Orchestration",
+  "sys_class_name": "ecc_agent_application",
+  "sys_created_by": "marjan.marzban",
+  "sys_created_on": "2016-06-21 23:24:28",
+  "sys_id": "b5f91a57d7002200bdbaee5b5e6103ec",
+  "sys_mod_count": 3,
+  "sys_name": "Orchestration",
+  "sys_package": "ef1fbeacdb1233000510196c299619f7",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "ecc_agent_application_b5f91a57d7002200bdbaee5b5e6103ec",
+  "sys_updated_by": "devops_mid_server",
+  "sys_updated_on": "2019-10-09 12:04:13"
+}
