@@ -1,0 +1,21 @@
+{
+  "maximum_concurrency": 16,
+  "name": "Default",
+  "order": null,
+  "parameters": null,
+  "path": null,
+  "path_match_operator": "EQ",
+  "session_parameters": null,
+  "sys_class_name": "sys_semaphore",
+  "sys_created_by": "dloo",
+  "sys_created_on": "2010-03-26 23:51:41",
+  "sys_id": "9ce334ea0a0a0b3b7f2a0e91d20a9152",
+  "sys_mod_count": 4,
+  "sys_name": "Default",
+  "sys_package": "bb6811f07420330078509adcc48c8796",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_semaphore_9ce334ea0a0a0b3b7f2a0e91d20a9152",
+  "sys_updated_by": "guest",
+  "sys_updated_on": "2019-05-24 16:36:57"
+}
